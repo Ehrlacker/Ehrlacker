@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehrlacker&label=Profile%20views&color=0e75b6&style=flat" alt="ehrlacker" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React**
 
